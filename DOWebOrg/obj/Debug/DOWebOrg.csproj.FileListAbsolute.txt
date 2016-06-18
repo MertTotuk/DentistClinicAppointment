@@ -1,0 +1,28 @@
+c:\users\mert\documents\visual studio 2013\Projects\DOWebOrg\DOWebOrg\bin\DOWebOrg.dll.config
+c:\users\mert\documents\visual studio 2013\Projects\DOWebOrg\DOWebOrg\bin\DOWebOrg.dll
+c:\users\mert\documents\visual studio 2013\Projects\DOWebOrg\DOWebOrg\bin\DOWebOrg.pdb
+c:\users\mert\documents\visual studio 2013\Projects\DOWebOrg\DOWebOrg\bin\EntityFramework.dll
+c:\users\mert\documents\visual studio 2013\Projects\DOWebOrg\DOWebOrg\bin\EntityFramework.SqlServer.dll
+c:\users\mert\documents\visual studio 2013\Projects\DOWebOrg\DOWebOrg\bin\MySql.Data.dll
+c:\users\mert\documents\visual studio 2013\Projects\DOWebOrg\DOWebOrg\bin\MySql.Data.Entity.EF6.dll
+c:\users\mert\documents\visual studio 2013\Projects\DOWebOrg\DOWebOrg\bin\MySql.Fabric.Plugin.dll
+c:\users\mert\documents\visual studio 2013\Projects\DOWebOrg\DOWebOrg\bin\MySql.Web.dll
+c:\users\mert\documents\visual studio 2013\Projects\DOWebOrg\DOWebOrg\bin\EntityFramework.xml
+c:\users\mert\documents\visual studio 2013\Projects\DOWebOrg\DOWebOrg\bin\EntityFramework.SqlServer.xml
+c:\users\mert\documents\visual studio 2013\Projects\DOWebOrg\DOWebOrg\obj\Debug\DOWebOrg.csprojResolveAssemblyReference.cache
+c:\users\mert\documents\visual studio 2013\Projects\DOWebOrg\DOWebOrg\obj\Debug\DOWebOrg.dll
+c:\users\mert\documents\visual studio 2013\Projects\DOWebOrg\DOWebOrg\obj\Debug\DOWebOrg.pdb
+D:\TFS\Projects\DOWebOrg\DOWebOrg\bin\DOWebOrg.dll.config
+D:\TFS\Projects\DOWebOrg\DOWebOrg\bin\DOWebOrg.dll
+D:\TFS\Projects\DOWebOrg\DOWebOrg\bin\DOWebOrg.pdb
+D:\TFS\Projects\DOWebOrg\DOWebOrg\bin\EntityFramework.dll
+D:\TFS\Projects\DOWebOrg\DOWebOrg\bin\EntityFramework.SqlServer.dll
+D:\TFS\Projects\DOWebOrg\DOWebOrg\bin\MySql.Data.dll
+D:\TFS\Projects\DOWebOrg\DOWebOrg\bin\MySql.Data.Entity.EF6.dll
+D:\TFS\Projects\DOWebOrg\DOWebOrg\bin\MySql.Fabric.Plugin.dll
+D:\TFS\Projects\DOWebOrg\DOWebOrg\bin\MySql.Web.dll
+D:\TFS\Projects\DOWebOrg\DOWebOrg\bin\EntityFramework.xml
+D:\TFS\Projects\DOWebOrg\DOWebOrg\bin\EntityFramework.SqlServer.xml
+D:\TFS\Projects\DOWebOrg\DOWebOrg\obj\Debug\DOWebOrg.csprojResolveAssemblyReference.cache
+D:\TFS\Projects\DOWebOrg\DOWebOrg\obj\Debug\DOWebOrg.dll
+D:\TFS\Projects\DOWebOrg\DOWebOrg\obj\Debug\DOWebOrg.pdb
